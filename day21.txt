@@ -1,0 +1,9 @@
+
+文件上传的原理
+监听器:事件源|事件|监听器
+
+
+2.ajax
+--XmlHttpRequest的属性，方法，
+2.1同步和异步
+2.2json-lib,Xtream
